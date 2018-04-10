@@ -1,0 +1,32 @@
+.TH man 1 "2016-06-06" "1.0"
+.SH NAME
+ ArchiveZ - skrypt służący do kompresji i dekompresji.
+
+.SH DESCRIPTION
+
+ ArchiveZ służy do kompresji i dekompresji (rozszerzenia .zip , .tar , .tar.gz , .tar.bz2 i .rar ). Ponadto dla rozszerzeń .zip i .rar przewidziana jest opcja zabezpieczenia archiwum hasłem.
+
+.SH OPTIONS:
+
+-h	(Help) - pomoc
+
+-q	(Quit) - wyjście, kończy prace programu
+
+-g	(Graphic mode) - opcja graficzna w Dialogu
+
+-p	(Pack) - zapakuj, wykonaj kompresje
+
+-u	(Unpack) - rozpakuj, wykonaj dekompresje
+
+-s	(Source) - źródło, dodanie pełnej ścieżki do pliku
+
+-d	(Destination) - docelowe miejsce, dodanie pełnej ścieżki do folderu docelowego
+
+-n	(New name) - nowa nazwa, nazwa wynikowego archiwum przy kompresji
+
+-w	(passWord) - hasło
+
+-e	(Extension) - rozszerzenie, na jej podstawie program wykonuje odpowiednie dla danego rozszerzenia kompresje i dekompresje
+
+.SH AUTHOR
+ Piotr 'Sunnivran' Żakowski ( piotrek-zakowski@wp.pl )

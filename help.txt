@@ -1,0 +1,33 @@
+				HELP
+
+ Author           : Piotr 'Sunnivran' Żakowski ( piotrek-zakowski@wp.pl )
+ Created On       : 27.05.2016
+ Last Modified By : Piotr 'Sunnivran' Żakowski ( piotrek-zakowski@wp.pl )
+ Last Modified On : 28.05.2016
+ Version          : 1.1
+
+ Description      : Program służący do kompresji i dekompresji. 
+
+ Opis
+
+ Program służący do kompresji i dekompresji 
+ (rozszerzenia .zip , .tar , .tar.gz , .tar.bz2 i .rar ).
+ Ponadto dla rozszerzeń .zip i .rar przewidziana 
+ jest opcja zabezpieczenia archiwum hasłem.
+
+ PARAMETRY KONSOLOWE:
+ 	-h - help - pomoc
+	-q - quit - wyjście, kończy prace programu
+	-g - graphic - opcja graficzna w Dialogu
+	-p - pack - zapakuj, wykonaj kompresje
+	-u - unpack - rozpakuj, wykonaj dekompresje
+	-s - source - źródło, dodanie pełnej ścieżki do pliku
+	-d - destination - docelowe miejsce, dodanie pełnej ścieżki do folderu 
+			docelowego
+	-n - (new) name - nowa nazwa, nazwa wynikowego archiwum przy 
+			kompresji
+	-w - password - hasło
+	-e - extension - rozszerzenie, na jej podstawie program wykonuje 
+			odpowiednie dla danego rozszerzenia kompresje 
+			i dekompresje
+				END OF HELP
